@@ -71,4 +71,4 @@ Still to do:
 * This theme is NOT TO BE USED COMMERCIALLY!!!!!!!
 * Compatability is designed for Emuelec. Only systems supported by Emuelec are being themed. 
 + See licence file for sources, credits and licence. 
-# Crystal_KR-MOD
+# By Crystal-KR-MOD
